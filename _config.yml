@@ -1,9 +1,9 @@
 # Site settings
-course_name: "Python Programming"
+course_name: "Attack with Defense"
 # course_description: ""
-course_semester: "Fall 2025"
+course_semester: "Summer 2026"
 
-baseurl: "/python-programming" # the subpath of your site, e.g. /blog/
+baseurl: "/AWD" # the subpath of your site, e.g. /blog/
 url: "http://le4fwiki.cn/" # the base hostname & protocol for your site
 
 # schoolname: ""
